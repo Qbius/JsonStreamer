@@ -1,4 +1,5 @@
-#pragma once
+#ifndef __PRECOMPILED_HEADER__
+#define __PRECOMPILED_HEADER__
 
 #include <SDKDDKVer.h>
 
@@ -14,3 +15,5 @@
 #include <utility>
 #include <algorithm>
 #include <iterator>
+
+#endif
